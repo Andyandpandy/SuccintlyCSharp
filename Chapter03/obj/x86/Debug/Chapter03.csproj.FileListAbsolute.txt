@@ -1,0 +1,5 @@
+/Users/Andy/Dropbox/Documents/University/Q11/GUI/Succintly_CSharp/Chapter03/bin/Debug/Chapter03.exe
+/Users/Andy/Dropbox/Documents/University/Q11/GUI/Succintly_CSharp/Chapter03/bin/Debug/Chapter03.pdb
+/Users/Andy/Dropbox/Documents/University/Q11/GUI/Succintly_CSharp/Chapter03/obj/x86/Debug/Chapter03.csproj.CoreCompileInputs.cache
+/Users/Andy/Dropbox/Documents/University/Q11/GUI/Succintly_CSharp/Chapter03/obj/x86/Debug/Chapter03.exe
+/Users/Andy/Dropbox/Documents/University/Q11/GUI/Succintly_CSharp/Chapter03/obj/x86/Debug/Chapter03.pdb

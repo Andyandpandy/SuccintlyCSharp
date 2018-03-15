@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{5810E662-15BE-45BE-9A29-672EB8BAF470}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AlternativeBetterSyntax.cs">
+    <Files>
+      <File FileName="Program.cs" Line="11" Column="15" />
+      <File FileName="QueryData.cs" Line="69" Column="33" />
+      <File FileName="FilteringData.cs" Line="22" Column="29" />
+      <File FileName="OrderingData.cs" Line="28" Column="14" />
+      <File FileName="JoiningData.cs" Line="41" Column="38" />
+      <File FileName="AlternativeBetterSyntax.cs" Line="46" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Chapter07 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

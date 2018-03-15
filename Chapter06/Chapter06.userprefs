@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{3AB50D96-22A6-4377-B002-CC16FBF82640}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="38" Column="1" />
+      <File FileName="ListExample.cs" Line="44" Column="32" />
+      <File FileName="DictionaryExample.cs" Line="25" Column="12" />
+      <File FileName="MyGenericClass.cs" Line="13" Column="1" />
+      <File FileName="ReportCreations.cs" Line="12" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Chapter06 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

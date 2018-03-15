@@ -1,0 +1,4 @@
+/Users/Andy/Dropbox/Documents/University/Q11/GUI/Succintly_CSharp/Chapter09/obj/Debug/netcoreapp2.0/Chapter09.csprojResolveAssemblyReference.cache
+/Users/Andy/Dropbox/Documents/University/Q11/GUI/Succintly_CSharp/Chapter09/obj/Debug/netcoreapp2.0/Chapter09.csproj.CoreCompileInputs.cache
+/Users/Andy/Dropbox/Documents/University/Q11/GUI/Succintly_CSharp/Chapter09/obj/Debug/netcoreapp2.0/Chapter09.AssemblyInfoInputs.cache
+/Users/Andy/Dropbox/Documents/University/Q11/GUI/Succintly_CSharp/Chapter09/obj/Debug/netcoreapp2.0/Chapter09.AssemblyInfo.cs
